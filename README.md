@@ -5,13 +5,13 @@ TEAM MEMBERS
 RHYTHM GIRDHAR- PES UNIVERSITY
 
 ROHAN MOHAPATRA- PES UNIVERSITY
-
+***
 ### ABSTRACT
 Considering the current scenario where disaster relief is still a topic of major concern, We have decided to develop an application for
 the same. The given application ' Disasafe ' focuses mainly on locating the site of the disaster and also providing immediate 
 source of communication to the concerned authorities(during the disaster). But, most importantly Prevention is always better than cure, 
 hence, We are also going to take up the task of predicting the disaster beforehand. By Using the State-of-Art techniques in Machine         Learning along with principles of Image recognition, we will be able to predict a natural disaster in the near future using already fed     Satellite Images.
-    
+***
 ### DETAILS
 There are 2 Different parts in our given solution.  
 * **Part 1: Relief Management During The Disaster**
@@ -30,7 +30,7 @@ There are 2 Different parts in our given solution.
   - If any one of the image is classified as a Natural Disaster, it could be a probable hit.
   - Now the **location is sent to every concerned authority** so that they can take further action. The UI for the authorities will be simple and they have to register themselves.
   - When there is a potential hit, we will notify them of the location and probable type of the calamity.
- 
+ ***
  ### CONCLUSION
  We have incorporated all the required services which will be of real help to the users. The prototype will be ready to use post its deployment. 
  
